@@ -41,7 +41,7 @@ int main(){
 }
     */
 
-/*
+
 int pgcd(int a, int b){
 
     int reste = 1;
@@ -65,4 +65,3 @@ int pgcd(int a, int b){
 int main(){
     printf("%d", pgcd(84, 30));
 }
-    */
